@@ -94,5 +94,6 @@
   </Settings>
   <VirtualDirectory Name="src">
     <File Name="main.cpp"/>
+    <File Name="second.cpp"/>
   </VirtualDirectory>
 </CodeLite_Project>
