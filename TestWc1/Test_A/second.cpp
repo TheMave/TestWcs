@@ -1,4 +1,4 @@
 void test2()
 {
-    int test = 1;
+    int test = 6;
 }
