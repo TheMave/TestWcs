@@ -5,7 +5,7 @@ using namespace std;
 int main(int argc, char **argv)
 {
 	printf("hello world\n");
-    cout << "toedeledoki 6c";
+    cout << "toedeledoki 6c2";
     string str;
     cin>>str;
 	return 0;
